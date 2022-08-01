@@ -1,6 +1,6 @@
 # Pressure sensor
 This repo is about using Arduino to get te Thin Film Pressure Sensor data.
-First, you need Arduino IDE/PIO to build the script and upload to the board. Then, using the pySerial to get the data. Finally, you could reading and publishing data under ROS platform. This repo is a **ros-package**.
+First, you need Arduino IDE/PIO to build the script and upload to the board. Then, using the pySerial to get the data. Finally, you could read and publish data under the ROS platform. This repo as a **ros-package**.
 
 ## Sensor Information
 
@@ -27,12 +27,12 @@ Circuit diageam
 
 Source : [Link](https://arduinogetstarted.com/tutorials/arduino-force-sensor)
 
-## Home come
+# Home come
 1. Using Platformio to build and upload the script to the board
 2. Read sensor data by pySerial
 3. Publishing data under ROS
 
-### Platformio
+## Platformio
 Board : UNO
 
 Using vs code
